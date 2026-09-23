@@ -1,22 +1,18 @@
 {
-/* STREAMING_CHUNK:Defining project name and version... /
 "name": "hunter-training-system",
 "version": "1.0.0",
 "private": true,
-/ STREAMING_CHUNK:Configuring dependency scripts... /
 "scripts": {
 "dev": "next dev",
 "build": "next build",
 "start": "next start",
 "lint": "next lint"
 },
-/ STREAMING_CHUNK:Listing core dependencies... /
 "dependencies": {
 "react": "^18.2.0",
 "react-dom": "^18.2.0",
 "next": "^14.1.0"
 },
-/ STREAMING_CHUNK:Listing dev dependencies... */
 "devDependencies": {
 "@types/node": "^20.0.0",
 "@types/react": "^18.2.0",
